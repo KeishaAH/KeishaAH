@@ -1,19 +1,27 @@
 <h1 align="center" class="heading-element" dir="auto">Welcome👋, I'm Halim Keisha Althea</h1>
 
 
-- 🔭 I’m currently working on Web Development Projects.
-- 🌱 I’m currently learning MySQL.
-- 👯 I’m looking to collaborate on Web Development.
-- 🤔 I’m looking for help with Full Stack Developmemnt
-- 💬 Ask me about ... Web Development
-- 📫 How to reach me: keishaah2004@gmail.com
-- 😄 Pronouns: She/ Her
-- ⚡ Fun fact: Love to play games.
+- 🎓 Final-year **Data Science undergraduate** at *Xiamen University Malaysia*  
+- 💻 Currently exploring **machine learning, data analytics**, and **big data processing** using *Python, SQL, and PySpark*  
+- 🧠 Learning and improving my skills in *MySQL* and *Databricks*  
+- 🤝 Open to collaborate on **data science, analytics, or AI-related projects**    
+- 📫 Reach me at: **keishaah2004@gmail.com**  
+- 😄 Pronouns: *She/Her*  
+- ⚡ Fun fact: I love solving problems
 
 
-# 💫 About Me:
+# 💫 About Me
 
-I'm a Data Science undergraduate at Xiamen University Malaysia with a strong interest in software development, data engineering, and emerging technologies.<br><br>💡 I enjoy learning by doing, whether it's through building projects, contributing to case competitions, or working behind the scenes in IT support roles.<br><br>📊 Recently, I’ve been exploring topics like data engineering, SQL, and backend development. I'm especially curious about the intersection of AI and cybersecurity.<br><br>🏆 Outside of coding, I’ve led student organizations, planned outreach events, and competed in business case competitions — I love working with people and solving real-world problems.<br><br>🔭 Currently looking for internship opportunities in tech where I can grow, collaborate, and make meaningful contributions.<br><br>Feel free to connect!<br>
+I'm a **Data Science undergraduate** passionate about turning data into insights and building solutions that make an impact.  
+My academic and project experience spans **machine learning, data analytics, and cloud-based big data processing**.  
+
+💡 I enjoy *learning by doing* — from developing a PySpark pipeline on **Databricks** for large-scale supply chain data analysis, to designing SQL-based databases and participating in **business case competitions** that bridge technical and strategic thinking.   
+
+🏆 Beyond academics, I’ve led university teams and participated in international competitions, experiences that strengthened my **communication, teamwork, and leadership** skills.  
+
+🔍 I’m currently seeking **data science or data analyst internship opportunities**, where I can contribute to meaningful projects while growing my technical and analytical capabilities.  
+
+📫 Feel free to connect or collaborate!
 
 
 ## 🌐 Socials:
